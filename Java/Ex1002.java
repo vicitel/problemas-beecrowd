@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Main {
+public class Ex1002 { // alterar para Main antes de enviar no beecrowd
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);

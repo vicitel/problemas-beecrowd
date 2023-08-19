@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Ex1001 { // lembrar de alterar para Main antes de enviar no beecrowd
 
 	public static void main(String[] args) {
 		
